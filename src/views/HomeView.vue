@@ -7,7 +7,7 @@
         <div class="d-flex flex-column align-items-xxl-start align-items-center text-xxl-start text-center w-25">
             <span class="span-color mb-2">Jadon Guzman - Web Developer/Designer</span>
             <div class="d-flex flex-row position-relative">
-              <h1 class="fw-bold text-index">Web Developer/Designer | Passion For The Arts<img width="15%" :src=code alt="Code Icon" /></h1>
+              <h1 class="fw-bold text-index">Tech Dabbler; Passion For The Arts<img width="15%" :src=code alt="Code Icon" /></h1>
               <img class="position-absolute top-100 bottom-0 start-0 translate-middle banner-index" width="120px" :src=designbanner alt="Design Banner" />
             </div>
         </div>
@@ -23,12 +23,11 @@
     <!-- TABLET/ MOBILE VISIBILITY -->
     <section data-aos="zoom-in" class="my-5 container d-xl-none d-lg-none d-md-none w-100">
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
-        <span class="span-color mb-2">John Doe - Web Developer/Designer</span>
-          <h2 class="fw-bold mobile-friendly">Web Developer/Designer Turning Your Vision Into Business</h2>
-          <p class="grey-text text-center">I help small businesses begin their marketing/branding campaigns & then implement a fully fleshed functional online store/website to industry standards</p>
+        <span class="span-color mb-2">Jadon Guzman - Web Developer/Designer</span>
+          <h2 class="fw-bold mobile-friendly">Tech Dabbler; Passion For The Arts</h2>
           <button class="primary-button fw-medium" @click="sendEmail">
             <img width="10%" :src=mail alt="Mail Icon" />
-            contact@gmail.com
+            Contact
           </button>
         </div>
     </section>
