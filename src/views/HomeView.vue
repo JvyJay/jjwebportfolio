@@ -105,7 +105,7 @@
         <div data-aos="fade-up-right" class="w-50 d-flex flex-column justify-content-lg-start align-items-lg-start justify-content-center align-items-center text-lg-start text-center">
           <span class="span-color">Contact</span>
           <h2>Want To Learn More? Let`s Get Started</h2>
-          <p>feel free to reach out on Linkedin, Twitter or Instagram!</p>
+          <p>feel free to reach out on Linkedin, or via Email!</p>
           <button class="primary-button fw-medium" @click="sendEmail">
             <img width="10%" :src=mail alt="Mail Icon" />
             Contact
