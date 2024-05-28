@@ -27,7 +27,7 @@
         <div class="container d-flex flex-row justify-content-center align-items-center m-5">
           <div class="d-flex flex-column w-25 mx-4">
             <h4 data-aos="fade-right" class="fw-medium">UI Developer Hailing from Tacoma, WA</h4>
-            <p data-aos="fade-up" class="grey-text">As a dedicated UI developer/designer, I'm passionate about infusing creativity into web development. Collaborating with companies, I focus on crafting visually captivating and user-friendly interfaces. My approach combines meticulous design and coding to bring concepts to life, ensuring cohesive experiences. Clear communication and thorough documentation are key, aligning our vision to deliver impactful solutions.</p>
+            <p data-aos="fade-up" class="grey-text">As a dedicated UI developer/designer, I'm passionate about infusing creativity into web development. I focus on crafting visually captivating and user-friendly interfaces. My approach combines meticulous design and coding to bring concepts to life, ensuring cohesive experiences. Clear communication and thorough documentation are key, aligning our vision to deliver impactful solutions.</p>
           </div>
           <img data-aos="fade-left" class="img-fluid" width="25%" :src=profile alt="Profile Photo" />
         </div>
@@ -37,7 +37,7 @@
         <img data-aos="fade-down" class="img-fluid" width="50%" :src=profile alt="Profile Photo" />
         <div data-aos="fade-up" class="d-flex flex-column text-center w-75 m-5">
           <h4 class="fw-medium">UI Developer Hailing from Tacoma, WA</h4>
-          <p class="grey-text">As a dedicated UI developer/designer, I'm passionate about infusing creativity into web development. Collaborating with companies, I focus on crafting visually captivating and user-friendly interfaces. My approach combines meticulous design and coding to bring concepts to life, ensuring cohesive experiences. Clear communication and thorough documentation are key, aligning our vision to deliver impactful solutions.</p>
+          <p class="grey-text">As a dedicated UI developer/designer, I'm passionate about infusing creativity into web development. I focus on crafting visually captivating and user-friendly interfaces. My approach combines meticulous design and coding to bring concepts to life, ensuring cohesive experiences. Clear communication and thorough documentation are key, aligning our vision to deliver impactful solutions.</p>
         </div>
       </div>
       <!-- DESKTOP VISIBILITY -->

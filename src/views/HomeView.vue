@@ -161,7 +161,7 @@ export default {
           id: 2,
           title: 'Achilles Collective',
           image: project2,
-          desc: `Personal Project: A Meetup Group passion project that's one of a couple reasons why I'm trying so hard to get into the I.T industry at the moment; still in the works, but I plan on investing more into this project as a whole once I'm more settled into my career (please hire me lol (I'll train you for free!!))`,
+          desc: `Personal Project: A meetup group, passion project--that's one of a couple reasons why I'm trying so hard to get into the I.T industry at the moment; still in the works, but I plan on investing more into this project as a whole once I'm more settled into my career (please hire me; I'll train you for free!)`,
           link: 'https://achilles-collective.vercel.app/'
         },
         {
