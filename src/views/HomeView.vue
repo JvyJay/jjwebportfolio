@@ -169,7 +169,7 @@ export default {
           title: 'jjvy Artist Website',
           image: project3,
           desc: 'Personal Project: My other passion! Feel free to checkout my music!',
-          link: 'https://prodbyjjvy.vercel.app/#/'
+          link: 'https://jjvy.netlify.app/#/'
         }
       ],
       bottomProject: {
