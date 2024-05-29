@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="d-flex flex-column align-items-xxl-end justify-content-xxl-end align-items-center text-xxl-end text-center text-justify right-aligned w-25">
-          <p class="grey-text text-index text-xxl-end text-center">I aspire to be Musashi Miyamoto of the web, or at the very least--Sasaki Kojirō; maybe Sasuke Uchiha? he was kinda evil tho. Whatever, you get the point &#x1F977;</p>
+          <p class="grey-text text-index text-xxl-end text-center">I aspire to be Musashi Miyamoto of the web, or at the very least--Sasaki Kojirō; maybe Sasuke Uchiha? He was kinda evil tho. Whatever, you get the point &#x1F977;</p>
           <button class="primary-button fw-medium" @click="sendEmail">
             <img width="10%" :src=mail alt="Mail Icon" />
             Contact
