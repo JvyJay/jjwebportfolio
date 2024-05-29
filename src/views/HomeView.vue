@@ -12,7 +12,7 @@
             </div>
         </div>
         <div class="d-flex flex-column align-items-xxl-end justify-content-xxl-end align-items-center text-xxl-end text-center text-justify right-aligned w-25">
-          <p class="grey-text text-index text-xxl-end text-center">If you consider me I'll teach you Muay Thai, & will make you an album; please I'm starving in this economy. Is an appeal to help a bad strategy? Who knows, but I bet you slightly exhaled out of your nose reading this &#x1F609;</p>
+          <p class="grey-text text-index text-xxl-end text-center">I aspire to be Musashi Miyamoto of the web &#x1F977; or at the very least--Sasaki Kojirō</p>
           <button class="primary-button fw-medium" @click="sendEmail">
             <img width="10%" :src=mail alt="Mail Icon" />
             Contact
