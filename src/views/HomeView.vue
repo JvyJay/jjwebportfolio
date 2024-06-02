@@ -7,7 +7,7 @@
         <div class="d-flex flex-column align-items-xxl-start align-items-center text-xxl-start text-center w-25">
             <span class="span-color mb-2">Jadon Guzman - Web Developer/Designer</span>
             <div class="d-flex flex-row position-relative">
-              <h1 class="fw-bold text-index">Tech Dabbler; Passion For The Arts<img width="15%" :src=code alt="Code Icon" /></h1>
+              <h1 class="fw-bold text-index">Tech Vagabond; Passion For The Arts<img width="15%" :src=code alt="Code Icon" /></h1>
               <img class="position-absolute top-100 bottom-0 start-0 translate-middle banner-index" width="120px" :src=designbanner alt="Design Banner" />
             </div>
         </div>
