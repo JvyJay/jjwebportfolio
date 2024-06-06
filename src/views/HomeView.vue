@@ -24,7 +24,7 @@
     <section data-aos="zoom-in" class="my-5 container d-xl-none d-lg-none d-md-none w-100">
       <div class="d-flex flex-column justify-content-center align-items-center text-center">
         <span class="span-color mb-2">Jadon Guzman - Web Developer/Designer</span>
-          <h2 class="fw-bold mobile-friendly">Tech Dabbler; Passion For The Arts</h2>
+          <h2 class="fw-bold mobile-friendly">Tech Vagabond; Passion For The Arts</h2>
           <button class="primary-button fw-medium" @click="sendEmail">
             <img width="10%" :src=mail alt="Mail Icon" />
             Contact
@@ -123,7 +123,7 @@
 <script>
 // IMAGES
 import project1 from '../assets/project1.png';
-import project2 from '../assets/project2.png';
+import project2 from '../assets/project2.jpg';
 import project3 from '../assets/project3.png';
 import project4 from '../assets/project4.png';
 import code from '../assets/Code.svg';
@@ -159,10 +159,10 @@ export default {
         },
         {
           id: 2,
-          title: 'Achilles Collective',
+          title: 'Baxter Clone',
           image: project2,
-          desc: `Personal Project: A meetup group, passion project--that's one of a couple reasons why I'm trying so hard to get into the I.T industry at the moment; still in the works, but I plan on investing more into this project as a whole once I'm more settled into my career (please hire me; I'll train you for free!)`,
-          link: 'https://achilles-collective.vercel.app/'
+          desc: `Personal Project: There is a two-fold reason I endeavoured with this project. 1 -- I currently work under Baxter (technically) and am hoping this project will suffice for potentially working my way into a particular tech position within this company; 2 -- If plan A doesn't work, this project at the very least, is a nice addition to my portfolio for other potential employers.`,
+          link: 'https://baxter-clone.vercel.app/'
         },
         {
           id: 3,
